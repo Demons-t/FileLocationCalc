@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  BaseConversionCalculator.cpp
+  BaseConversionCalculatorDlg.cpp
+d:\c-c++\随便玩\baseconversioncalculator\baseconversioncalculator\baseconversioncalculatordlg.cpp(45): warning C4018: “<”: 有符号/无符号不匹配
+d:\c-c++\随便玩\baseconversioncalculator\baseconversioncalculator\baseconversioncalculatordlg.cpp(92): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  BaseConversionCalculator.vcxproj -> D:\c-c++\随便玩\BaseConversionCalculator\Debug\BaseConversionCalculator.exe
